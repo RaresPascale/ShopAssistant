@@ -20,16 +20,16 @@
 
 
 # Modules and sensors used:
-  ~ Mobile part: Arduino Nano, L298N H-Bridge, 4 DC Motors, IR sensor;
-  ~ Tag Reading: Arduino Mega 2560, M6e Nano Simultaneous Reader by Spark Fun, RTC Module DS 1307, SD Card Module;
-  ~ Power: 2 4.2V Li-Ion Batteries, LM2596 voltage dropper;
+  * Mobile part: Arduino Nano, L298N H-Bridge, 4 DC Motors, IR sensor;
+  * Tag Reading: Arduino Mega 2560, M6e Nano Simultaneous Reader by Spark Fun, RTC Module DS 1307, SD Card Module;
+  * Power: 2 4.2V Li-Ion Batteries, LM2596 voltage dropper;
 
 
 # Communication protocols used:
-  ~ I2C: for RTC Module
-  ~ SPI: for SD card
-  ~ UART: for RFID reader
-  ~ One wire protocol: IR sensor
+  * I2C: for RTC Module
+  * SPI: for SD card
+  * UART: for RFID reader
+  * One wire protocol: IR sensor
 
 
 
