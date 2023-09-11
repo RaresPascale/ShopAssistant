@@ -13,7 +13,7 @@
   * At every 3 seconds, a new reading is performed by the sensor, and a new line is written
   * At the start of each line, using the RTC module, the exact date and time is placed.
   * Next, the id of each tag is written only once( the RFID reader, can read a tag       
-    multiple times in a second, but we found a way to write it only once in the memory).![Poza prezentare1]
+    multiple times in a second, but we found a way to write it only once in the memory).
 
 
 # Finally, we can insert the SD card on a PC, and using a desktop app, created using Python, we can view the data in a nicer way.
